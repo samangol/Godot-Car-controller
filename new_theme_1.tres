@@ -1,0 +1,21 @@
+[gd_resource type="Theme" load_steps=2 format=2]
+
+[ext_resource path="res://new_dynamicfont_1.tres" type="DynamicFont" id=1]
+
+[resource]
+HSlider/icons/grabber = null
+HSlider/icons/grabber_disabled = null
+HSlider/icons/grabber_highlight = null
+HSlider/icons/tick = null
+HSlider/styles/grabber_area = null
+HSlider/styles/grabber_area_highlight = null
+HSlider/styles/slider = null
+Label/colors/font_color = Color( 0, 0, 0, 1 )
+Label/colors/font_color_shadow = Color( 0, 0, 0, 1 )
+Label/colors/font_outline_modulate = Color( 0, 0, 0, 1 )
+Label/constants/line_spacing = 0
+Label/constants/shadow_as_outline = 0
+Label/constants/shadow_offset_x = 0
+Label/constants/shadow_offset_y = 0
+Label/fonts/font = ExtResource( 1 )
+Label/styles/normal = null
